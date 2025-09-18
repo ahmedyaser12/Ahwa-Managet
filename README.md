@@ -1,12 +1,11 @@
 # Smart Ahwa Manager 🍵☕
 
 A comprehensive Flutter application designed specifically for traditional Egyptian coffee houses (Ahwa) to streamline operations and enhance business management.
-
 ## 📱 Screenshots
 
 | New Order | Orders Management | Reports & Analytics |
 |-----------|------------------|-------------------|
-| ![New Order Screen](screenshots/new_order.png) | ![Orders Screen](screenshots/orders.png) | ![Reports Screen](screenshots/reports.png) |
+| <img src="https://github.com/user-attachments/assets/ef65c8a0-c34f-4fee-9c9a-175334f71bff" alt="New Order Screen" width="200"> | <img src="https://github.com/user-attachments/assets/daccddc0-5e38-4ac8-b7ae-f9f0936166f8" alt="Orders Screen" width="200"> | <img src="https://github.com/user-attachments/assets/da7b57c9-c6f8-4418-92ad-e933b6e993ee" alt="Reports Screen" width="200"> |
 
 ## 🌟 Features
 
